@@ -12,6 +12,7 @@ export function deleteItem(id) {
 }
 
 export function updateItem(id,itemUpdate) {
+   
    return axios.patch(`http://localhost:8080/cart/${id}`,itemUpdate)
 }
 

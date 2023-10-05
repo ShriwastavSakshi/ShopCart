@@ -581,52 +581,14 @@
       ]
     },
     {
-      "id": 12,
-      "title": "Brown Perfume",
-      "brand": "Royal_Mirage",
-      "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
-      "price": 40,
-      "quantity": 1
-    },
-    {
-      "id": 13,
-      "title": "Fog Scent Xpressio Perfume",
-      "brand": "Fog Scent Xpressio",
-      "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.webp",
-      "price": 13,
-      "quantity": 1
-    },
-    {
-      "id": 4,
-      "title": "OPPOF19",
-      "brand": "OPPO",
-      "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
-      "price": 280,
-      "quantity": 1
-    },
-    {
-      "id": 16,
-      "title": "Hyaluronic Acid Serum",
-      "brand": "L'Oreal Paris",
-      "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
-      "price": 19,
-      "quantity": 1
-    },
-    {
-      "id": 28,
-      "title": "3D Embellishment Art Lamp",
-      "brand": "LED Lights",
-      "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
-      "price": 20,
-      "quantity": 1
-    },
-    {
       "id": 7,
       "title": "Samsung Galaxy Book",
       "brand": "Samsung",
       "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
       "price": 1499,
-      "quantity": 1
+      "quantity": 3,
+      "requestId": "8BvfIoeBz7Dkcc0p4v-TA",
+      "signal": {}
     },
     {
       "id": 9,
@@ -634,7 +596,7 @@
       "brand": "Infinix",
       "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
       "price": 1099,
-      "quantity": 1
+      "quantity": "3"
     }
   ]
 }
