@@ -19,7 +19,6 @@
         "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
       ]
     },
-
     {
       "id": 2,
       "title": "iPhone X",
@@ -38,7 +37,6 @@
         "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
       ]
     },
-
     {
       "id": 3,
       "title": "Samsung Universe 9",
@@ -50,9 +48,10 @@
       "brand": "Samsung",
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
-      "images": ["https://i.dummyjson.com/data/products/3/1.jpg"]
+      "images": [
+        "https://i.dummyjson.com/data/products/3/1.jpg"
+      ]
     },
-
     {
       "id": 4,
       "title": "OPPOF19",
@@ -72,7 +71,6 @@
         "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
       ]
     },
-
     {
       "id": 5,
       "title": "Huawei P30",
@@ -90,7 +88,6 @@
         "https://i.dummyjson.com/data/products/5/3.jpg"
       ]
     },
-
     {
       "id": 6,
       "title": "MacBook Pro",
@@ -109,7 +106,6 @@
         "https://i.dummyjson.com/data/products/6/4.jpg"
       ]
     },
-
     {
       "id": 7,
       "title": "Samsung Galaxy Book",
@@ -555,6 +551,90 @@
         "https://i.dummyjson.com/data/products/30/3.jpg",
         "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
       ]
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "title": "iPhone 9",
+      "brand": "Apple",
+      "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+      "price": 549,
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/2/1.jpg",
+        "https://i.dummyjson.com/data/products/2/2.jpg",
+        "https://i.dummyjson.com/data/products/2/3.jpg",
+        "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Brown Perfume",
+      "brand": "Royal_Mirage",
+      "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+      "price": 40,
+      "quantity": 1
+    },
+    {
+      "id": 13,
+      "title": "Fog Scent Xpressio Perfume",
+      "brand": "Fog Scent Xpressio",
+      "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.webp",
+      "price": 13,
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "title": "OPPOF19",
+      "brand": "OPPO",
+      "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "price": 280,
+      "quantity": 1
+    },
+    {
+      "id": 16,
+      "title": "Hyaluronic Acid Serum",
+      "brand": "L'Oreal Paris",
+      "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+      "price": 19,
+      "quantity": 1
+    },
+    {
+      "id": 28,
+      "title": "3D Embellishment Art Lamp",
+      "brand": "LED Lights",
+      "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
+      "price": 20,
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "title": "Samsung Galaxy Book",
+      "brand": "Samsung",
+      "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+      "price": 1499,
+      "quantity": 1
+    },
+    {
+      "id": 9,
+      "title": "Infinix INBOOK",
+      "brand": "Infinix",
+      "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+      "price": 1099,
+      "quantity": 1
     }
   ]
 }
